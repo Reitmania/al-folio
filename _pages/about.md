@@ -7,9 +7,9 @@ subtitle: <a href='#'>Chemnitz University of Technology</a>. Address. Contacts. 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>017</p>
+    <p>Room 017</p>
     <p>Straße der Nationen 62</p>
     <p>09111 Chemnitz</p>
 
