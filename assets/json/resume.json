@@ -6,7 +6,7 @@
     "email": "reitmann@mailbox.org",
     "phone": "",
     "url": "https://reitmania.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -28,10 +28,50 @@
       "position": "Asssistant Professor",
       "url": "https://www.tu-chemnitz.de/informatik/pcs/",
       "startDate": "2024-10-01",
-      "endDate": "2028",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "endDate": "Present",
+      "summary": ""
     }
+    {
+      "name": "Robotics & Semantic Systems Group, Lund University",
+      "position": "PostDoc",
+      "url": "https://rss.cs.lth.se/",
+      "startDate": "2023-04-11",
+      "endDate": "Present",
+      "summary": ""
+    }
+    {
+      "name": "Human-Computer Interaction, Zittau/Görlitz University of Applied Sciences",
+      "position": "Professor",
+      "url": "https://f-ei.hszg.de/startseite",
+      "startDate": "2024-01-01",
+      "endDate": "2024-09-30",
+      "summary": ""
+    }
+    {
+      "name": "Ubiquituos Computing & Smart Systems, Freiberg University of Mining & Technology",
+      "position": "PostDoc",
+      "url": "https://tu-freiberg.de/ubisys",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": ""
+    }
+    {
+      "name": "Virtual Reality & Multimedia, Freiberg University of Mining & Technology",
+      "position": "PostDoc",
+      "url": "https://tu-freiberg.de/vr",
+      "startDate": "2019-09-01",
+      "endDate": "2022-12-31",
+      "summary": ""
+    }
+    {
+      "name": "Institute of Flight Guidance, German Aerospace Center (DLR)",
+      "position": "PhD Student",
+      "url": "https://www.dlr.de/en/fl",
+      "startDate": "2015-09-01",
+      "endDate": "2019-08-31",
+      "summary": ""
+    }
+
   ],
   "volunteer": [
     {
